@@ -1,4 +1,11 @@
 body{
-	background: grey;
+	background: #fff;
 	color: black;
+}
+h1{
+	font-size: 20px;
+	margin-bottom: 0;
+}
+p{
+	color: 	#ddd;
 }
