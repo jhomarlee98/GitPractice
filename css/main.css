@@ -1,11 +1,15 @@
-body{
-	background: #fff;
-	color: black;
+.container{
+	max-width: 100%;
+	margin: 0 auto;
 }
-h1{
-	font-size: 20px;
-	margin-bottom: 0;
+
+header{
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
 }
-p{
-	color: 	#ddd;
+
+ul{
+	display: flex;
+	align-items: center;
 }
