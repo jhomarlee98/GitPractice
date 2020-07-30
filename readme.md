@@ -6,3 +6,7 @@ Documentacion del proyecto
 -Paso 3
 -Paso 4
 -Paso 5
+
+##Agregando desde GitHub
+
+lorem 
